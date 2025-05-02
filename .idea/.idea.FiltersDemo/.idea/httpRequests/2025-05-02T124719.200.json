@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 999.99
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 599.99
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 149.99
+  },
+  {
+    "id": 4,
+    "name": "Monitor",
+    "price": 299.99
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "price": 79.99
+  },
+  {
+    "id": 6,
+    "name": "Mouse",
+    "price": 49.99
+  },
+  {
+    "id": 7,
+    "name": "Printer",
+    "price": 199.99
+  },
+  {
+    "id": 8,
+    "name": "Tablet",
+    "price": 399.99
+  },
+  {
+    "id": 9,
+    "name": "Camera",
+    "price": 449.99
+  },
+  {
+    "id": 10,
+    "name": "Speaker",
+    "price": 129.99
+  },
+  {
+    "id": 11,
+    "name": "Test Product",
+    "price": 99.99
+  },
+  {
+    "id": 12,
+    "name": "Test Product",
+    "price": 99.99
+  },
+  {
+    "id": 13,
+    "name": "Test Product",
+    "price": 99.99
+  },
+  {
+    "id": 14,
+    "name": "Test Product",
+    "price": 99.99
+  },
+  {
+    "id": 15,
+    "name": "Test Product",
+    "price": 99.99
+  }
+]

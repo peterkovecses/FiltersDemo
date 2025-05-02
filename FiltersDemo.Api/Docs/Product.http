@@ -1,0 +1,21 @@
+@rootUrl=https://localhost:7081/api
+
+###
+GET {{rootUrl}}/products
+
+###
+GET {{rootUrl}}/products/1
+
+###
+POST {{rootUrl}}/products
+Content-Type: application/json
+X-Api-Key: DEMO-API-KEY-2024
+
+{
+  "name": "Test Product",
+  "price": 99.99
+}
+
+###
+###
+DELETE {{rootUrl}}/products/1
