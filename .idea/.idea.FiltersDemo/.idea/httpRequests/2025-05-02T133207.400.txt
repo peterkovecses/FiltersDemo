@@ -1,1 +1,0 @@
-The price of the product must be greater than zero.

@@ -1,7 +1,0 @@
-{
-  "success": false,
-  "data": null,
-  "errors": [
-    "Microsoft.AspNetCore.Mvc.ProblemDetails"
-  ]
-}
